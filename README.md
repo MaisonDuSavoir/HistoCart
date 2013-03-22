@@ -1,4 +1,4 @@
 # Contributing 
 
-Please use the google style guide for javascript. 
-http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+Please use the jquery style guide for javascript. 
+http://contribute.jquery.org/style-guide/js/
